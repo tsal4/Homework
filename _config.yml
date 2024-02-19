@@ -18,12 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Homework 2
+email: tsalwan26@jcu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Homework 2 will center on GitHub, Jekyll, and Markdown, covering key
+  aspects such as GitHub’s repository management and collaboration tools,
+  setting up a Jekyll website locally with proper configuration, mastering
+  Markdown syntax for formatting tasks, customizing the Jekyll website
+  by adding pages and modifying themes, and deploying the website using
+  GitHub Pages.
 baseurl: "Homework" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
