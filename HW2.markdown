@@ -11,14 +11,14 @@ This is a paragraph
 
 **this will be bold** ~~this will be strike through~~ <u>this will be underlined</u>
 
-# Lists
-## Unordered
+## Lists
+# Unordered
 - item one
 - item two
   - item a
   - item b
 
-## Ordered
+# Ordered
 1. Item 1
 2. Item 2
 3. Item 3
