@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Markdown syntax for formatting tasks, customizing the Jekyll website
   by adding pages and modifying themes, and deploying the website using
   GitHub Pages.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "Homework" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
